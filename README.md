@@ -27,8 +27,7 @@
 <br/>
 
 ## 🤔 Github Stats
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yxpjseo/github-stats-transparent/output/generated/stats.svg" />
-  <br/>
-  <img src="https://raw.githubusercontent.com/yxpjseo/github-stats-transparent/output/generated/languages.svg" />
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/yxpjseo/github-stats-transparent/output/generated/overview.svg" width="48%" /> 
+  <img src="https://raw.githubusercontent.com/yxpjseo/github-stats-transparent/output/generated/languages.svg" width="48%" /> 
 </p>
