@@ -27,13 +27,13 @@
 <br/>
 
 ## 🤔 Github Stats
-<p align="center">
+<div align="center">
   <img
     src="https://raw.githubusercontent.com/yxpjseo/github-stats-transparent/output/generated/stats.svg"
-    style="max-width:48%; height:auto;"
+    width="48%"
   />
   <img
     src="https://raw.githubusercontent.com/yxpjseo/github-stats-transparent/output/generated/languages.svg"
-    style="max-width:48%; height:auto;"
+    width="48%"
   />
-</p>
+</div>
