@@ -31,7 +31,7 @@
   <br/>
   
   ## 🤔 Github Stats
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yxpjseo&show_icons=true)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yxpjseo&show_icons=true&cache_seconds=1800)
   <br/>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yxpjseo)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yxpjseo&layout=compact&langs_count=6&cache_seconds=1800)
 </div>
