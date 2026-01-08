@@ -31,8 +31,7 @@
   <br/>
   
   ## 🤔 Github Stats
-  ![GitHub stats](https://github-readme-stats-mfckz98tq-yxpjseos-projects.vercel.app/api?username=yxpjseo&show_icons=true&v=20260109)
+  ![GitHub stats](https://yxpjseo-readme-stats.vercel.app/api?username=yxpjseo&show_icons=true&v=1)
   <br/>
-  ![Top Langs](https://github-readme-stats-mfckz98tq-yxpjseos-projects.vercel.app/api/top-langs/?username=yxpjseo&layout=compact&langs_count=5&hide=html,css&v=20260109)
-
+  ![Top Langs](https://yxpjseo-readme-stats.vercel.app/api/top-langs/?username=yxpjseo&layout=compact&v=1)
 </div>
