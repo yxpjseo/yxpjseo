@@ -31,7 +31,9 @@
   <br/>
   
   ## 🤔 Github Stats
-  ![GitHub stats](https://yxpjseo-readme-stats.vercel.app/api?username=yxpjseo&show_icons=true&v=1)
-  <br/>
-  ![Top Langs](https://yxpjseo-readme-stats.vercel.app/api/top-langs/?username=yxpjseo&layout=compact&v=1)
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/yxpjseo/github-stats-transparent/output/generated/stats.svg" width="48%" />
+    <img src="https://raw.githubusercontent.com/yxpjseo/github-stats-transparent/output/generated/languages.svg" width="48%" />
+  </p>
+
 </div>
