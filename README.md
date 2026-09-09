@@ -6,7 +6,7 @@
 
 ## About Me
 ### Education
-- Undergraduate Student in Computer Science & Engineering, Ewha Womans University
+**Undergraduate Student in Computer Science & Engineering, Ewha Womans University**
 
 ### Activities
 - **2025.01 – 2025.12** | LIKELION Ewha 13th · Frontend
